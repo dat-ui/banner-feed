@@ -5,14 +5,14 @@
     "url": ""
   },
   "midt": {
-    "active": false,
-    "img": "",
-    "url": ""
+    "active": true,
+    "img": "https://cdn.klaviyomail.com/company/RQ2rs4/images/48764b1f-d265-4f8a-987c-5857239c6358.png",
+    "url": "https://www.comeon.com/da/sportsbook"
   },
   "bund": {
-    "active": false,
-    "img": "",
-    "url": ""
+    "active": true,
+    "img": "https://cdn.klaviyomail.com/company/RQ2rs4/images/0a6d0f74-8abd-4c29-ba5d-34fcc469b758.png",
+    "url": "https://www.comeon.com/da/sportsbook"
   },
-  "opdateret": "2026-10-29T11:54:34.911Z"
+  "opdateret": "2026-10-31T23:05:02.056Z"
 }
